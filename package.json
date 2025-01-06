@@ -1,6 +1,6 @@
 {
   "name": "react-native-fast-carousel",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "types": "index.d.ts",
   "peerDependencies": {
@@ -18,9 +18,13 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Pratyaksh Gupta <gupta.100xdev@gmail.com>",
+  "license": "MIT",
+  "description": "A very light weight, extremely fast and customizable image slider component for React Native, with smooth animations and pagination.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PratyakshGupta48/react-native-fast-carousel"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-native": "^0.76.5"

@@ -1,7 +1,10 @@
 
-# React Native Image Slider
+# React Native Fast Carousel
 
 A very light weight, extremely fast and customizable image slider component for React Native, with smooth animations and pagination.
+
+
+![Slider Demo](https://drive.google.com/uc?export=download&id=10-pCsxjKO4ZCqaQc7G-DpkwI6--2Fbxf)
 
 
 ## Features
@@ -22,14 +25,14 @@ Install the package using npm:
 Install the package using yarn:
 
 ```bash
-  npm install react-native-image-slider
+  npm install react-native-fast-carousel
 ```
 ## Usage
 
 ```javascript
 import React from 'react';
 import { View } from 'react-native';
-import Slider from 'react-native-image-slider';
+import Slider from 'react-native-fast-carousel';
 
 const App = () => {
   const images = [
@@ -61,7 +64,7 @@ export default App;
 ```javascript
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import Slider from 'react-native-image-slider';
+import Slider from 'react-native-fast-carousel';
 
 const images = [
   { source: require('./assets/image1.png') },
