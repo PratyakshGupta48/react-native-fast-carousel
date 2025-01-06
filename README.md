@@ -4,7 +4,7 @@
 A very light weight, extremely fast and customizable image slider component for React Native, with smooth animations and pagination.
 
 
-![Slider Demo](https://drive.google.com/uc?export=download&id=10-pCsxjKO4ZCqaQc7G-DpkwI6--2Fbxf)
+![Slider Demo](https://github.com/PratyakshGupta48/react-native-fast-carousel/blob/main/demo.gif)
 
 
 ## Features
